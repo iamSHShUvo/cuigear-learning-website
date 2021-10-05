@@ -1,0 +1,8 @@
+.navbar-nav a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 8px;
+}
+.navbar-brand img{
+    width: 50px;
+}
