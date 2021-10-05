@@ -1,5 +1,6 @@
-#CUIGEAR
-##Your **#1** Destination for Learning Online
+# CUIGEAR
+
+## Your **#1** Destination for Learning Online
 
 
 This is the live site of this git: [CUIGEAR](http://cuigear101.netlify.com)
